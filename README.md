@@ -1,1 +1,2 @@
 # newGitjt
+- SSH Autoupdate Test
